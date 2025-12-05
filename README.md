@@ -1,4 +1,4 @@
-# 03/04_PBMC_TCell_Classifier
+# 03-04_PBMC_TCell_Classifier
 ## 👑 高準確度 T 細胞分類器與機器學習模型深度評估 (Random Forest & SVM)
 
 本專案利用單細胞 RNA-seq 數據，成功訓練了高度準確的細胞分類器，並通過引入第二個模型 (SVM) 進行嚴謹的**模型評估與比較**，展現了完整的機器學習應用與模型選擇能力。
